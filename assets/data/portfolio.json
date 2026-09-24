@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Filip Zdelar — Software Engineer",
+    "description": "Portfolio of a software engineer focused on dependable products, thoughtful systems, and measurable results."
+  },
+  "ui": {
+    "loading": "Loading portfolio…",
+    "error": "The portfolio could not be loaded. Please refresh the page.",
+    "menuOpen": "Open navigation",
+    "menuClose": "Close navigation",
+    "visitWebsite": "Visit website",
+    "viewProject": "View project",
+    "previousImage": "Previous image",
+    "nextImage": "Next image",
+    "viewProjects": "View projects",
+    "hideProjects": "Hide projects",
+    "imageFallback": "Image placeholder"
+  },
+  "navigation": [
+    { "label": "About", "target": "about" },
+    { "label": "Experience", "target": "experience" },
+    { "label": "Skills", "target": "skills" },
+    { "label": "Projects", "target": "side-projects" },
+    { "label": "Education", "target": "education" },
+    { "label": "Courses", "target": "courses" },
+    { "label": "Contact", "target": "contact" }
+  ],
+  "profile": {
+    "eyebrow": "Senior Software Engineer · Web Developer",
+    "name": "Filip",
+    "role": "I build dependable software for complex problems.",
+    "intro": "I’m a software engineer who turns complex technical challenges into reliable, scalable products. From backend systems and cloud solutions to machine learning, I combine analytical thinking with practical engineering to build software that delivers measurable results.",
+    "location": "Novi Sad, Serbia",
+    "availability": "Available from October 1",
+    "portrait": "assets/images/filip-zdelar-profile.jpg",
+    "portraitAlt": "Filip Zdelar",
+    "primaryAction": {
+      "label": "Explore my work",
+      "target": "experience"
+    },
+    "secondaryAction": {
+      "label": "Let’s talk",
+      "target": "contact"
+    },
+    "cvUrl": "assets/cv/filip-zdelar-cv.pdf",
+    "cvLabel": "Download CV",
+    "stats": [
+      { "value": "8+", "label": "Years of experience" },
+      { "value": "10+", "label": "Projects delivered" },
+      { "value": "Problem Solving", "label": "Specialization" }
+    ]
+  },
+  "sections": {
+    "about": {
+      "eyebrow": "Profile",
+      "title": "Engineering with clarity and purpose.",
+      "paragraphs": [
+        "I’m a software engineer with more than eight years of experience building reliable web applications, backend systems, cloud solutions, and machine-learning products. I enjoy working on technically demanding problems where thoughtful architecture, strong analytical skills, and measurable results make a real difference.",
+        "My approach combines practical engineering with clear communication and continuous improvement. I care about maintainable code, dependable delivery, and choosing technology based on the problem—not trends. I also enjoy sharing knowledge, mentoring developers, and helping teams turn complex requirements into focused, effective solutions."
+      ]
+    },
+    "education": {
+      "eyebrow": "Foundation",
+      "title": "Education"
+    },
+    "experience": {
+      "eyebrow": "Selected work",
+      "title": "Experience that made an impact."
+    },
+    "sideProjects": {
+      "eyebrow": "Built independently",
+      "title": "Side projects"
+    },
+    "skills": {
+      "eyebrow": "Capabilities",
+      "title": "Tools for solving the right problems."
+    },
+    "courses": {
+      "eyebrow": "Continuous learning",
+      "title": "Courses"
+    },
+    "contact": {
+      "eyebrow": "Start a conversation",
+      "title": "Have a project in mind?",
+      "description": "I’m always open to discussing challenging engineering roles, ambitious products, and meaningful collaborations. If you think we could build something valuable together, I’d be glad to hear from you."
+    }
+  },
+  "education": [
+    {
+      "name": "Jovan Jovanović Zmaj Gymnasium",
+      "description": "He attended a specialized mathematics class. During this period, he competed in the fields of mathematics, physics, chess, and programming.",
+      "highlights": [],
+      "image": "assets/images/education/jj-zmaj-gymnasium.jpg",
+      "imageAlt": "Jovan Jovanović Zmaj Gymnasium building in Novi Sad",
+      "imageCredit": "Micki / CC BY-SA 3.0",
+      "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Gimnazija_Jovan_Jovanovi%C4%87_Zmaj_Novi_Sad.jpg",
+      "link": "https://jjzmaj.edu.rs/vesti/"
+    },
+    {
+      "name": "Faculty of Technical Sciences",
+      "description": "Completed undergraduate and graduate studies with exceptional academic results and a strong commitment to electrical engineering and computer science.",
+      "highlights": [
+        "Master of Electrical and Computer Engineering — average grade 9.50/10",
+        "Bachelor of Electrical and Computer Engineering with honors — average grade 9.69/10"
+      ],
+      "image": "assets/images/education/faculty-technical-sciences.jpg",
+      "imageAlt": "Faculty of Technical Sciences building at the University of Novi Sad",
+      "imageCredit": "Nikolina Šepić / CC BY-SA 4.0",
+      "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Fakultet_tehni%C4%8Dkih_nauka_Univerziteta_u_Novom_Sadu_07.jpg",
+      "link": "https://ftn.uns.ac.rs/"
+    }
+  ],
+  "courses": [
+    "Claude 101",
+    "Claude Code 101",
+    "AI Fluency: Framework & Foundations",
+    "Building with the Claude API"
+  ],
+  "experience": [
+    {
+      "name": "Panonit",
+      "role": "Full-Stack Software Engineer",
+      "period": "Mar 2017 — Apr 2022",
+      "image": "assets/images/companies/panonit.webp",
+      "imageAlt": "PanonIT logo",
+      "link": "https://panonit.com/homepage",
+      "projects": [
+        {
+          "name": "Auto Solver",
+          "description": "Web application for auto-scheduling manager's schedule and optimizing the result. The position required full-stack technologies, an understanding of the cloud, and advanced mathematics. I developed a solver that was only 5% slower than the best one available while providing results of over 40% higher quality on average. I designed, developed, and deployed key backend functionality, ensured smooth cloud operation, and later mentored junior software developers.",
+          "technologies": [".NET", "Microsoft SQL Server", "Cloud"]
+        },
+        {
+          "name": "Cropsit",
+          "description": "A web and mobile application for detecting anomalies in plants using deep neural networks for leaf classification. I designed and implemented backend systems, creating APIs and services that enabled communication between the front-end interface, databases, and various microservices.",
+          "technologies": ["Python", "PyTorch", "Deep learning"]
+        },
+        {
+          "name": "Digital Advertising Platform",
+          "description": "I developed backend functionality for a web server that communicated with remote digital advertising displays, managed external API calls, and uploaded video playback results to a cloud-based solution for centralized tracking and analysis.",
+          "technologies": ["Python", "Pytorch", "Azure"]
+        }
+      ],
+      "expanded": true
+    },
+    {
+      "name": "Codolis",
+      "role": "AI Researcher",
+      "period": "Apr 2022 — Sep 2022",
+      "image": "assets/images/companies/codolis.webp",
+      "imageAlt": "Codolis logo",
+      "link": "https://codolis.com/",
+      "projects": [
+        {
+          "name": "ECG Signal Research",
+          "description": "I researched and trained custom deep neural networks for the classification and synthesis of one-dimensional medical ECG signals to automate recognition of heart anomalies. The project aimed to expand the classification dataset by synthesizing additional data through adjustments to state-of-the-art models.",
+          "technologies": ["Python", "PyTorch", "ECG signals"]
+        }
+      ],
+      "expanded": true
+    },
+    {
+      "name": "Continental",
+      "role": "Backend Software Engineer",
+      "period": "Apr 2022 — Mar 2023",
+      "image": "assets/images/companies/continental.svg",
+      "imageAlt": "Continental logo",
+      "link": "https://www.continental.com/en/",
+      "projects": [
+        {
+          "name": "Ramsas 1.5",
+          "description": "The developer played an integral role in establishing autonomous communication between vehicles and remote servers.",
+          "technologies": [".NET", "C++", "MongoDB"]
+        }
+      ],
+      "expanded": true
+    },
+    {
+      "name": "TIAC",
+      "role": "Full-Stack Software Engineer",
+      "period": "Dec 2023 — Nov 2026",
+      "image": "assets/images/companies/tiac.png",
+      "imageAlt": "TIAC logo",
+      "link": "https://tiacgroup.com/",
+      "projects": [
+        {
+          "name": "Ambit RISK",
+          "description": "Developed fintech web solutions as part of an external development team for FIS. Ambit RISK is a monolithic application focused on migrating existing desktop functionality to a modern web-based solution.",
+          "technologies": ["Angular", ".NET", "Microsoft SQL Server"]
+        },
+        {
+          "name": "Prophet",
+          "description": "Contributed to a microservice-based fintech platform involving AI chatbot development, financial modeling, and workspace-related microservices as part of an external development team for FIS.",
+          "technologies": ["Angular", ".NET", "PostgreSQL", "AWS"]
+        }
+      ],
+      "expanded": true
+    }
+  ],
+  "sideProjects": [
+    {
+      "name": "Krakenly AI",
+      "description": "Krakenly is an AI-powered video scheduling and publishing platform that helps creators streamline their workflow, plan content, and publish videos more efficiently.",
+      "logo": "assets/images/krakenly/logo.png",
+      "logoAlt": "Krakenly AI octopus logo",
+      "images": [
+        {
+          "src": "assets/images/krakenly/dashboard.png",
+          "alt": "Krakenly social media dashboard and content scheduler"
+        },
+        {
+          "src": "assets/images/krakenly/scheduler.png",
+          "alt": "Krakenly schedule new content dialog"
+        },
+        {
+          "src": "assets/images/krakenly/video-editor.png",
+          "alt": "Krakenly browser-based video editor"
+        }
+      ],
+      "technologies": ["Go", "Angular", "Railway", "Polar", "PostgreSQL", "Redis", "Cursor"],
+      "link": "https://krakenly.ai/"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Backend & systems",
+      "items": ["Python", ".NET", "C#", "APIs", "Microservices"]
+    },
+    {
+      "category": "Databases",
+      "items": ["PostgreSQL", "Microsoft SQL Server", "Cassandra", "Redis"]
+    },
+    {
+      "category": "Data & machine learning",
+      "items": ["Python", "PyTorch", "TensorFlow", "Signal processing", "LLMs"]
+    },
+    {
+      "category": "Cloud & delivery",
+      "items": ["Azure", "AWS", "Containers", "CI/CD", "Docker"]
+    },
+    {
+      "category": "How I work",
+      "items": ["System design", "Technical mentoring", "Problem solving", "Agile", "Scrum"]
+    },
+    {
+      "category": "AI-assisted development",
+      "items": ["Cursor", "Claude", "GitHub Copilot"]
+    }
+  ],
+  "contact": {
+    "email": "filipzdelar@gmail.com",
+    "emailLabel": "filipzdelar@gmail.com",
+    "phone": "+381691998098",
+    "phoneLabel": "069 199 8098",
+    "location": "Novi Sad, Serbia",
+    "socialLinks": [
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/filip-zdelar/" },
+      { "label": "GitHub", "url": "https://github.com/filipzdelar" }
+    ]
+  },
+  "footer": {
+    "note": "Designed and built with care by Filip Zdelar",
+    "backToTopLabel": "Back to top"
+  }
+}

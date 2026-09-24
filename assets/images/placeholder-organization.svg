@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title description">
+  <title id="title">Organization image placeholder</title>
+  <desc id="description">Replace this file with an organization image or logo.</desc>
+  <rect width="640" height="400" rx="28" fill="#171c28"/>
+  <rect x="172" y="99" width="296" height="204" rx="18" fill="#22293a"/>
+  <path d="M220 253V148h200v105M198 279h244" fill="none" stroke="#7c6cff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M260 180v53M320 180v53M380 180v53" stroke="#98a2b8" stroke-width="12" stroke-linecap="round"/>
+  <text x="320" y="348" fill="#98a2b8" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">ORGANIZATION IMAGE</text>
+</svg>
