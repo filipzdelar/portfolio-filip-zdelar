@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="title description">
+  <title id="title">Project image placeholder</title>
+  <desc id="description">Replace this file with a project screenshot.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1a2030"/>
+      <stop offset="1" stop-color="#11151f"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="460" rx="28" fill="url(#background)"/>
+  <rect x="82" y="72" width="556" height="300" rx="18" fill="#22293a" stroke="#343c51" stroke-width="2"/>
+  <circle cx="116" cy="105" r="7" fill="#7c6cff"/>
+  <circle cx="139" cy="105" r="7" fill="#596279"/>
+  <circle cx="162" cy="105" r="7" fill="#596279"/>
+  <path d="M118 167h205M118 201h330M118 235h270" stroke="#98a2b8" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+  <rect x="118" y="284" width="128" height="44" rx="22" fill="#7c6cff" opacity=".8"/>
+  <text x="360" y="420" fill="#98a2b8" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">PROJECT SCREENSHOT</text>
+</svg>

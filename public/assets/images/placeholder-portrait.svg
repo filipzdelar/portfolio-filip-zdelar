@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 860" role="img" aria-labelledby="title description">
+  <title id="title">Portrait placeholder</title>
+  <desc id="description">Replace this file with your portrait.</desc>
+  <rect width="720" height="860" fill="#131722"/>
+  <circle cx="360" cy="302" r="126" fill="#242a3b"/>
+  <path d="M123 785c21-190 105-285 237-285s216 95 237 285" fill="#242a3b"/>
+  <circle cx="568" cy="140" r="74" fill="#7c6cff" opacity=".2"/>
+  <path d="M84 100h175M84 132h102" stroke="#9ba5bb" stroke-width="10" stroke-linecap="round" opacity=".4"/>
+  <text x="360" y="824" fill="#9ba5bb" font-family="Arial, sans-serif" font-size="22" text-anchor="middle">YOUR PORTRAIT</text>
+</svg>
